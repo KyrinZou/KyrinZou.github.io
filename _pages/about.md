@@ -15,11 +15,10 @@ My primary research focus is proportional high dimensional models, especially re
 1. Error estimation, appoximate and exact cross validation methods,
 2. Machine unlearning, data evaluation and interpretability
 
-Working Papers
-1. 
 
 Selected Publications
 ======
+
 Working Papers
 ------
 1. Certified Data Removal Under High-dimensional Settings,
