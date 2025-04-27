@@ -79,6 +79,8 @@ author:
 publication_category:
   # books:
   #   title: 'Books'
+  working:
+    title: 'Under Submission'
   journal:
     title: 'Journal Articles'    
   conferences:
