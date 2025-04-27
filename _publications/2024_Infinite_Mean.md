@@ -1,7 +1,7 @@
 ---
 title: "Prediction and Estimation of Random Variables with Infinite Mean or Variance"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2024_Infinite_Mean
 excerpt: 'An estimator for distributions with infinite mean or variance using transformation, and the construction of confidence intervals.'
 date: 2024-01-06
