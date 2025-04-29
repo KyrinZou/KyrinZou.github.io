@@ -9,4 +9,4 @@ date: 2022-10-16
 location: "Indianapolis, IN, USA"
 ---
 
-The talk focused on the bias of Gini Coefficient, and a novel proof for the unbiasedness of Gini coefficient for Gamma distribution. The slides can be found [here](/files/paper1.pdf).
+The talk focused on the bias of Gini Coefficient, and a novel proof for the unbiasedness of Gini coefficient for Gamma distribution.
