@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Audentes Fortuna Iuvat!"
+title: "Welcome! I am Haolin."
 author_profile: true
 redirect_from: 
   - /about/
@@ -38,6 +38,5 @@ A. Auddy, H. Zou, K. Rad and A. Maleki. IEEE Transactions on Information Theory,
 B. Baydil, V. de la Peña, H. Zou and H. Yao. Statistics and Probability Letters, 2025.
 4. [Prediction and estimation of random variables with infinite mean or variance](https://www.researchgate.net/publication/377540116_Prediction_and_estimation_of_random_variables_with_infinite_mean_or_variance),
 V. de la Peña, H. Gzyl, S. Mayoral, H. Zou and D. Alemayehu. Communications in Statistics - Theory and Methods, 2024.
-
 
 
