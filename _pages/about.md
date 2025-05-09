@@ -11,7 +11,7 @@ Hello! I'm Haolin, a 5th year PhD candidate in the Department of Statistics at C
 
 My Research Interests
 ======
-I have a broad interest in the theoretical foundations of machine learning and artificial intellegence, with a primary focus on proportional high dimensional asymptotics. My current research foci include:
+I have a broad interest in the theoretical foundations of machine learning and artificial intelligence, with a primary focus on proportional high dimensional asymptotics. My current research foci include:
 1. Risk estimation and cross validation methods,
 2. Machine unlearning,
 3. Data evaluation and interpretability
