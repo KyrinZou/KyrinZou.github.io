@@ -2,12 +2,13 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate/Master/PhD courses"
+date: "2020-09-01"
 permalink: /teaching/TA
 venue: "Columbia University, Department of Statistics"
 location: "New York, United States"
 ---
 
-List of courses I TA'ed for:
+Courses I served as a teaching assistant.
 
 |Course Number|Course Title|Semester|
 |-------------|------------|--------|
