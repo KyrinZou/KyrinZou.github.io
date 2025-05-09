@@ -11,9 +11,10 @@ Hello! I'm Haolin, a 5th year PhD candidate in the Department of Statistics at C
 
 My Research Interests
 ======
-My primary research focus is proportional high dimensional models, especially regularized Empirical Risk Minimization (R-ERM). Specific topics including:
-1. Error estimation, appoximate and exact cross validation methods,
-2. Machine unlearning, data evaluation and interpretability
+I have a broad interest in the theoretical foundations of machine learning and artificial intellegence, with a primary focus on proportional high dimensional asymptotics. My current research foci include:
+1. Risk estimation and cross validation methods,
+2. Machine unlearning,
+3. Data evaluation and interpretability
 
 
 Selected Publications
@@ -33,10 +34,12 @@ Publications
 1. [Leave-one-out Cross Validation in High Dimensional Settings](https://arxiv.org/abs/2402.08543),
 H. Zou, A. Auddy, K. Rad and A. Maleki. Accepted by AISTATS 2025. 
 2. [Approximate Leave-one-out Cross Validation for Regression with L1 Regularizers](https://arxiv.org/abs/2310.17629),
-A. Auddy, H. Zou, K. Rad and A. Maleki. IEEE Transactions on Information Theory, 2024. 
-3. [Unbiased estimation of the Gini coefficient](https://www.sciencedirect.com/science/article/pii/S0167715225000215),
+A. Auddy, H. Zou, K. Rad and A. Maleki. IEEE Transactions on Information Theory, 2024.
+3. [Approximate Leave-one-out Cross Validation for Regression with L1 Regularizers](https://proceedings.mlr.press/v238/auddy24a),
+A. Auddy, H. Zou, K. Rad and A. Maleki. Proceedings of The 27th International Conference on Artificial Intelligence and Statistics, 2024. **Selected for oral presentation**.
+4. [Unbiased estimation of the Gini coefficient](https://www.sciencedirect.com/science/article/pii/S0167715225000215),
 B. Baydil, V. de la Peña, H. Zou and H. Yao. Statistics and Probability Letters, 2025.
-4. [Prediction and estimation of random variables with infinite mean or variance](https://www.researchgate.net/publication/377540116_Prediction_and_estimation_of_random_variables_with_infinite_mean_or_variance),
+5. [Prediction and estimation of random variables with infinite mean or variance](https://www.researchgate.net/publication/377540116_Prediction_and_estimation_of_random_variables_with_infinite_mean_or_variance),
 V. de la Peña, H. Gzyl, S. Mayoral, H. Zou and D. Alemayehu. Communications in Statistics - Theory and Methods, 2024.
 
 
