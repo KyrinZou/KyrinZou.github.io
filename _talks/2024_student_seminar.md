@@ -9,4 +9,3 @@ date: 2024-11-01
 location: "New York, NY, USA"
 ---
 [More Information](https://stat.columbia.edu/seminars/student-seminar-series/)
-The website is currently under construction, and slides will be provided later.
