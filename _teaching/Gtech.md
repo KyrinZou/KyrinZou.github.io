@@ -8,4 +8,4 @@ date: 2024-04-20
 location: "Atlanta, Georgia"
 ---
 
-
+Co-instructed with Prof. Victor de la Peña on the application of decoupling and self-normalization, including bandit and sorting problems.
