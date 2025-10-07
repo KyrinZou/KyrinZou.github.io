@@ -37,6 +37,6 @@ Working Papers
 Under Review
 ------
 1. **Zou, H.**, Yao, H. and de la Peña, V. (2025). **A Scalable Formula for the Moments of a Family of Self-Normalized Statistics**. Submitted to _Statistics and Probability Letters_.
-2. Panley, A., Auddy, A., **Zou, H.**, Maleki, A. and Kulkarni, S. (2025). **Gaussian Certified Unlearning in High Dimensions: A Hypothesis Testing Approach**. Submitted to _ICLR 2026_.
+2. Pandey, A., Auddy, A., **Zou, H.**, Maleki, A. and Kulkarni, S. (2025). **Gaussian Certified Unlearning in High Dimensions: A Hypothesis Testing Approach**. Submitted to _ICLR 2026_.
 
 
