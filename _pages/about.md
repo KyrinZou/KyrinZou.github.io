@@ -22,13 +22,14 @@ Selected Publications
 
 Publications
 ------
-1. **Zou, H.**, Auddy, A., Kwon, Y., Rahnama Rad, K. and Maleki, A. (2025). [**Certified Machine Unlearning Under High Dimensional Regime**](https://arxiv.org/abs/2505.07640). Accepted by _Journal of Machine Learning Research (JMLR)_.
-2. **Zou, H.** et al. (2025). [**Newfluence: Boosting Model Interpretability and Understanding in High Dimensions**](https://openreview.net/pdf?id=AALFCxEucZ). _ICML 2025, Workshop: Assessing World Models: Methods and Metrics for Evaluating Understanding_.
-3. **Zou, H.** et al. (2025). [**Theoretical Analysis of Leave-one-out Cross Validation for Non-differentiable Penalties under High-dimensional Settings**](https://proceedings.mlr.press/v258/zou25b.html)._ Proceedings of The 28th International Conference on Artificial Intelligence and Statistics_, PMLR 258:4033-4041.
-4. Auddy, A., **Zou, H.**, Rahnama Rad, K. and Maleki, A. (2024) [**Approximate Leave-one-out Cross Validation for Regression with L1 Regularizers**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10648927). _IEEE Transactions on Information Theory_, 70(11):8040–8071.
-5. Auddy, A., **Zou, H.**, Rahnama Rad, K. and Maleki, A. (2024) [**Approximate Leave-one-out Cross Validation for Regression with L1 Regularizers**](https://proceedings.mlr.press/v238/auddy24a). _Proceedings of The 27th International Conference on Artificial Intelligence and Statistics_, PMLR 238:2377-2385. **Selected for oral presentation.**
-6. Baydil, B., de la Peña, V., **Zou, H.** and Yao, H. (2025). [**Unbiased estimation of the Gini coefficient**](https://www.sciencedirect.com/science/article/pii/S0167715225000215). _Statistics and Probability Letters_, 222:110376.
-7. de la Peña, V., Gzyl, H., Mayoral, S., **Zou, H.** and Alemayehu, D. (2024). [**Prediction and estimation of random variables with infinite mean or variance**](https://www.researchgate.net/publication/377540116_Prediction_and_estimation_of_random_variables_with_infinite_mean_or_variance). _Communications in Statistics - Theory and Methods_, 54(1):1-15.
+1. Pandey, A., Auddy, A., **Zou, H.**, Maleki, A. and Kulkarni, S. (2025). **Gaussian Certified Unlearning in High Dimensions: A Hypothesis Testing Approach**. Accepted by _ICLR 2026_ with **oral presentation**.
+2. **Zou, H.**, Auddy, A., Kwon, Y., Rahnama Rad, K. and Maleki, A. (2025). [**Certified Machine Unlearning Under High Dimensional Regime**](https://arxiv.org/abs/2505.07640). Accepted by _Journal of Machine Learning Research (JMLR)_.
+3. **Zou, H.** et al. (2025). [**Newfluence: Boosting Model Interpretability and Understanding in High Dimensions**](https://openreview.net/pdf?id=AALFCxEucZ). _ICML 2025, Workshop: Assessing World Models: Methods and Metrics for Evaluating Understanding_.
+4. **Zou, H.** et al. (2025). [**Theoretical Analysis of Leave-one-out Cross Validation for Non-differentiable Penalties under High-dimensional Settings**](https://proceedings.mlr.press/v258/zou25b.html)._ Proceedings of The 28th International Conference on Artificial Intelligence and Statistics_, PMLR 258:4033-4041.
+5. Auddy, A., **Zou, H.**, Rahnama Rad, K. and Maleki, A. (2024) [**Approximate Leave-one-out Cross Validation for Regression with L1 Regularizers**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10648927). _IEEE Transactions on Information Theory_, 70(11):8040–8071.
+6. Auddy, A., **Zou, H.**, Rahnama Rad, K. and Maleki, A. (2024) [**Approximate Leave-one-out Cross Validation for Regression with L1 Regularizers**](https://proceedings.mlr.press/v238/auddy24a). _Proceedings of The 27th International Conference on Artificial Intelligence and Statistics_, PMLR 238:2377-2385. **Selected for oral presentation.**
+7. Baydil, B., de la Peña, V., **Zou, H.** and Yao, H. (2025). [**Unbiased estimation of the Gini coefficient**](https://www.sciencedirect.com/science/article/pii/S0167715225000215). _Statistics and Probability Letters_, 222:110376.
+8. de la Peña, V., Gzyl, H., Mayoral, S., **Zou, H.** and Alemayehu, D. (2024). [**Prediction and estimation of random variables with infinite mean or variance**](https://www.researchgate.net/publication/377540116_Prediction_and_estimation_of_random_variables_with_infinite_mean_or_variance). _Communications in Statistics - Theory and Methods_, 54(1):1-15.
 
 Working Papers
 ------
@@ -37,6 +38,6 @@ Working Papers
 Under Review
 ------
 1. **Zou, H.**, Yao, H. and de la Peña, V. (2025). **A Scalable Formula for the Moments of a Family of Self-Normalized Statistics**. Submitted to _Statistics and Probability Letters_.
-2. Pandey, A., Auddy, A., **Zou, H.**, Maleki, A. and Kulkarni, S. (2025). **Gaussian Certified Unlearning in High Dimensions: A Hypothesis Testing Approach**. Submitted to _ICLR 2026_.
+2. Tong, H., Ghosh, S., **Zou, H.**, Maleki, A. (2026). **Imperfect Influence, Preserved Rankings: A Theory of TRAK for Data Attribution**. Under review by _ICML 2026_.
 
 
