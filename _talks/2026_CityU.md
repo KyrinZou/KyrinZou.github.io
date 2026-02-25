@@ -4,7 +4,7 @@ collection: talks
 type: "Talks"
 permalink: /talks/2026_CityU
 venue: "Statistics Seminar, Department of Biostatistics, City University of Hong Kong"
-date: 2026-01-13
+date: 2026-01-22
 location: "Hong Kong, China"
 ---
 
