@@ -9,13 +9,18 @@ redirect_from:
 
 Hello! I'm Haolin, a Postdoctoral Researcher at Department of Statistics and Data Science (STA) at CUHK, under supervision of Prof. Junhui Wang. I obtained my Ph.D. from the Department of Statistics at Columbia University and was advised by Prof. [Arian Maleki](https://sites.google.com/site/malekiarian/?authuser=1) and Prof. [Victor de la Peña](https://www.columbia.edu/~vhd1/). Before my doctoral study, I received my Master in Actuarial Science from Columbia University in 2020. I received my Bachelor in Applied Mathematics and Bachelor in Economics from Peking University in 2018. It's a long and fruitful journey of education indeed!
 
-My Research Interests
+My Research Directions
 ======
 I have a broad interest in using statistical theory to understand current machine learning methods and developing new algorithms, with a primary focus on proportional high dimensional regime. My current research focuses on:
 1. Risk estimation and cross validation methods,
 2. Model adaptation and machine unlearning,
 3. Data attribution and interpretability,
-4. Network analysis
+4. Network analysis.
+
+Further Interests
+=====
+1. Model memory and continual learning. _Afterall, how can we study forgetting if we don't understand memory?_
+2. Integration and symbiosis of human and AI. 
 
 
 Selected Publications
